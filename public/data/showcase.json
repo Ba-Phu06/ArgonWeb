@@ -1,0 +1,92 @@
+[
+  {
+    "id": "swarm-orchestration",
+    "title": "Điều Phối Bầy Đàn Đa Tác Tử",
+    "subtitle": "Phối hợp tác vụ song song theo thời gian thực",
+    "category": "ai-agents",
+    "badge": "Multi-Agent",
+    "imagePath": "./images/cap-swarm.png",
+    "summary": "Kiến trúc điều phối nhiều tác tử chuyên biệt cùng chia sẻ bảng tin, phân tách phạm vi tệp độc lập và tự động kiểm chứng chéo trước khi bàn giao.",
+    "metrics": [
+      "4 Tác tử song song",
+      "0 Xung đột tệp",
+      "Kiểm chứng chéo"
+    ],
+    "accentColor": "#22d3ee"
+  },
+  {
+    "id": "neural-art-direction",
+    "title": "Định Hướng Thị Giác AI",
+    "subtitle": "Tổng hợp tài nguyên đồ họa đồng bộ bảng màu",
+    "category": "visuals",
+    "badge": "Visual Studio",
+    "imagePath": "./images/hero-studio.png",
+    "summary": "Khởi tạo hệ thống hình ảnh chủ đề không gian sâu với ánh sáng cyan, violet và hổ phách nhất quán, tối ưu tỷ lệ khung hình cho giao diện hiện đại.",
+    "metrics": [
+      "4 Tài nguyên HD",
+      "Bảng màu đồng bộ",
+      "Tải tức thì"
+    ],
+    "accentColor": "#a78bfa"
+  },
+  {
+    "id": "constellation-physics",
+    "title": "Mô Phỏng Chòm Sao & Sóng Xung Kích",
+    "subtitle": "Đồ họa Canvas 2D tương tác mượt mà 60 FPS",
+    "category": "canvas",
+    "badge": "Canvas 2D",
+    "imagePath": "./images/cap-canvas.png",
+    "summary": "Hệ hạt vật lý phản hồi theo con trỏ chuột với liên kết lân cận động, vòng sóng xung kích khi nhấp và độ nét chuẩn theo mật độ điểm ảnh DPR.",
+    "metrics": [
+      "60 FPS ổn định",
+      "Hút/đẩy con trỏ",
+      "Chuẩn hóa DPR"
+    ],
+    "accentColor": "#38bdf8"
+  },
+  {
+    "id": "harmonic-web-audio",
+    "title": "Tổng Hợp Âm Thanh Cộng Hưởng",
+    "subtitle": "Bộ tạo âm Web Audio API thuần trình duyệt",
+    "category": "audio",
+    "badge": "Web Audio",
+    "imagePath": "./images/cap-audio.png",
+    "summary": "Tạo hợp âm nền êm dịu và chuỗi nốt hài hòa C4–D5 đồng bộ trực tiếp với hiệu ứng xung kích trên Canvas, kiểm soát âm lượng mượt mà không giật.",
+    "metrics": [
+      "5 Nốt hòa âm",
+      "Pad nền dịu nhẹ",
+      "0 Thư viện ngoài"
+    ],
+    "accentColor": "#f59e0b"
+  },
+  {
+    "id": "autonomous-code-audit",
+    "title": "Kiểm Toán Chất Lượng Tự Động",
+    "subtitle": "Giám sát giới hạn dòng, kiểu dữ liệu & trình duyệt",
+    "category": "ai-agents",
+    "badge": "Quality Gate",
+    "imagePath": "./images/cap-swarm.png",
+    "summary": "Quy trình kiểm tra nghiêm ngặt độ dài mã nguồn dưới 250 dòng, loại bỏ hoàn toàn kiểu any và xác thực hiển thị trực tiếp trên trình duyệt thực.",
+    "metrics": [
+      "Strict TypeScript",
+      "< 250 dòng/tệp",
+      "Kiểm thử Live"
+    ],
+    "accentColor": "#34d399"
+  },
+  {
+    "id": "realtime-telemetry-hud",
+    "title": "Trạm Đo Lường Telemetry Trực Quan",
+    "subtitle": "Biểu đồ SVG thời gian thực & nhật ký sáng tạo",
+    "category": "visuals",
+    "badge": "Telemetry SVG",
+    "imagePath": "./images/cap-canvas.png",
+    "summary": "Theo dõi trực tiếp tốc độ khung hình FPS, mật độ liên kết hạt và lưu trữ ghi chú ý tưởng an toàn qua HTTP JSON cùng bộ nhớ cục bộ.",
+    "metrics": [
+      "24 Điểm FPS",
+      "SVG tương tác",
+      "Lưu LocalStorage"
+    ],
+    "accentColor": "#c084fc"
+  }
+]
